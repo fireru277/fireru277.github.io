@@ -16,4 +16,7 @@
 Лабораторная 2
 
 ![image](https://user-images.githubusercontent.com/62379084/137474499-7b2623c5-548c-45a6-b641-12cdaf4e6a76.png)
+
 ![image](https://user-images.githubusercontent.com/62379084/137474529-7530b8a4-b28d-4051-b95f-c7a5471a3697.png)
+
+![image](https://user-images.githubusercontent.com/62379084/137476236-2bf57286-5758-44b0-902b-4e1b2e355b19.png)
