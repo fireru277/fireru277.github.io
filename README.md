@@ -42,6 +42,8 @@ DFD-диаграмма: Обращение к БД
 2. Используя входные данные от подавшего запрос студента, сотрудник выявляет все оставшие полные и необходимые данные для оформления документа;
 3. После получения всех необходимых данных сотрудник, используя шаблон, заполняет все недостающие поля в документе.
 
+!!!(P.S. Не нашла как сделать БД в виде хранилища. Подразумеваю, что на диаграмме серый прямоугольник - хранилище, а не внешняя сущность.)!!!
+
 Диаграмма прецедентов
 
 ![image](https://www.plantuml.com/plantuml/png/fSwnQWCn30RWENeASLCx1Fe0fUIkNGzkwonivMBEPnsoJ8QcxrudRahs3WRn-KU_3jb8hQmHyXBIHaehaZDH_8BTG6wPLKhoxn8hVPw2CUnwLJat6MADrA2ePtsaxuTz9REZpF_U6FbeQ88QvfEX3yhEWYHezqulI1cxi-Z2sltYsD2BAoidk_FKb8p-WZSvbXYnyVte_lP1syOKGvgl_Hz31nFkz_ZKFqDzrt64slzwgTC4OuNBM-s60oTVrlW3)
