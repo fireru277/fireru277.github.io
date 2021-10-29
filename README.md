@@ -47,3 +47,25 @@ DFD-диаграмма: Обращение к БД
 Диаграмма прецедентов
 
 ![image](https://www.plantuml.com/plantuml/png/fSwnQWCn30RWENeASLCx1Fe0fUIkNGzkwonivMBEPnsoJ8QcxrudRahs3WRn-KU_3jb8hQmHyXBIHaehaZDH_8BTG6wPLKhoxn8hVPw2CUnwLJat6MADrA2ePtsaxuTz9REZpF_U6FbeQ88QvfEX3yhEWYHezqulI1cxi-Z2sltYsD2BAoidk_FKb8p-WZSvbXYnyVte_lP1syOKGvgl_Hz31nFkz_ZKFqDzrt64slzwgTC4OuNBM-s60oTVrlW3)
+
+Лабораторная 3
+
+DFD-диаграмма (А2)
+
+![image](https://user-images.githubusercontent.com/62379084/139420183-02c2e41f-7c33-4d51-814b-06519d00f7a3.png)
+
+Диаграмма последовательности:
+
+![image](https://user-images.githubusercontent.com/62379084/139420067-494af6e5-22c4-43cb-9716-fb8c37399da5.png)
+
+Студент направляет запрос по оформлению документа в сервисе.
+Сервис обрабатывает запрос с помощью данных БД и после направляет сотруднику.
+Сотрудник обрабатывает данные (обработка состоит с проверке, нахождении необходимых дополнительных данных, проверке корректности и тд).
+После сотрудник оформляет документ и направляет заказчику уведомление о готовности.
+Данные записываются в БД и после получения документа студентом запрос закрывается.
+
+ER-диаграмма:
+
+![image](https://user-images.githubusercontent.com/62379084/139420928-91e7c09c-a5c9-4338-873d-cbaf10179024.png)
+
+"Запрос" является частью Базы данных, которая используется в сервисе, и состоит из: id запроса, Документа, Студента и Статуса.
