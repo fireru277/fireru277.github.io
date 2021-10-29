@@ -17,7 +17,7 @@
 #### Диаграмма прецедентов
 
 ![image](http://www.plantuml.com/plantuml/png/fSwnJWCn30RWkNuAwoOOAl402FNAVD9jp5PYskXoSN4SEb3U7TEZwFOEaQpFVsplgf5QcpFKAPKJASr8mKJn2pPx2jD1fPNuAjdfxPYCOTEhodcHVVQ81qKZwvg-L_DQvK2LxvwO-TtG13KTZeOnAGTBKc2vTtn2gjYTMAkKxW-71IlhPmfyq_6AoX-Dg_r7LzyfOoIZ3cwdzzVcIDu-YquTZBZTuaF_2Fv-om5y__F5gn46XykBxuOTbzZc_0C0)
-
+</details>
 
 ####  <details><summary><b>Лабораторная 2</b></summary>
 
@@ -48,6 +48,8 @@
 
 ![image](https://www.plantuml.com/plantuml/png/fSwnQWCn30RWENeASLCx1Fe0fUIkNGzkwonivMBEPnsoJ8QcxrudRahs3WRn-KU_3jb8hQmHyXBIHaehaZDH_8BTG6wPLKhoxn8hVPw2CUnwLJat6MADrA2ePtsaxuTz9REZpF_U6FbeQ88QvfEX3yhEWYHezqulI1cxi-Z2sltYsD2BAoidk_FKb8p-WZSvbXYnyVte_lP1syOKGvgl_Hz31nFkz_ZKFqDzrt64slzwgTC4OuNBM-s60oTVrlW3)
 
+ </details> 
+  
 ####   <details><summary><b>Лабораторная 3</b></summary>
 
 #### DFD-диаграмма (А2)
@@ -71,3 +73,4 @@
 ![image](https://user-images.githubusercontent.com/62379084/139420928-91e7c09c-a5c9-4338-873d-cbaf10179024.png)
 
 "Запрос" является частью Базы данных, которая используется в сервисе, и состоит из: id запроса, Документа, Студента и Статуса.
+</details>
