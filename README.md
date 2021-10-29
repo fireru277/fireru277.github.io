@@ -1,7 +1,7 @@
-#### ОТЧЕТ ПО ЛАБОРАТОРНЫМ РАБОТАМ
+####                          ОТЧЕТ ПО ЛАБОРАТОРНЫМ РАБОТАМ
 
 
-#### Лабораторная 1
+####                                Лабораторная 1
 
 Сервис по оформлению документов студентами МГТУ Станкин.
 
@@ -19,7 +19,7 @@
 ![image](http://www.plantuml.com/plantuml/png/fSwnJWCn30RWkNuAwoOOAl402FNAVD9jp5PYskXoSN4SEb3U7TEZwFOEaQpFVsplgf5QcpFKAPKJASr8mKJn2pPx2jD1fPNuAjdfxPYCOTEhodcHVVQ81qKZwvg-L_DQvK2LxvwO-TtG13KTZeOnAGTBKc2vTtn2gjYTMAkKxW-71IlhPmfyq_6AoX-Dg_r7LzyfOoIZ3cwdzzVcIDu-YquTZBZTuaF_2Fv-om5y__F5gn46XykBxuOTbzZc_0C0)
 
 
-#### Лабораторная 2
+####                                Лабораторная 2
 
 #### Диаграмма IDEF0:
 
@@ -48,7 +48,7 @@
 
 ![image](https://www.plantuml.com/plantuml/png/fSwnQWCn30RWENeASLCx1Fe0fUIkNGzkwonivMBEPnsoJ8QcxrudRahs3WRn-KU_3jb8hQmHyXBIHaehaZDH_8BTG6wPLKhoxn8hVPw2CUnwLJat6MADrA2ePtsaxuTz9REZpF_U6FbeQ88QvfEX3yhEWYHezqulI1cxi-Z2sltYsD2BAoidk_FKb8p-WZSvbXYnyVte_lP1syOKGvgl_Hz31nFkz_ZKFqDzrt64slzwgTC4OuNBM-s60oTVrlW3)
 
-#### Лабораторная 3
+####                              Лабораторная 3
 
 #### DFD-диаграмма (А2)
 
