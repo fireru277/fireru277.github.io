@@ -1,7 +1,7 @@
 ОТЧЕТ ПО ЛАБОРАТОРНЫМ РАБОТАМ
 
 
-Лабораторная 1
+#### [Лабораторная 1]
 
 Сервис по оформлению документов студентами МГТУ Станкин.
 
@@ -19,7 +19,7 @@
 ![image](http://www.plantuml.com/plantuml/png/fSwnJWCn30RWkNuAwoOOAl402FNAVD9jp5PYskXoSN4SEb3U7TEZwFOEaQpFVsplgf5QcpFKAPKJASr8mKJn2pPx2jD1fPNuAjdfxPYCOTEhodcHVVQ81qKZwvg-L_DQvK2LxvwO-TtG13KTZeOnAGTBKc2vTtn2gjYTMAkKxW-71IlhPmfyq_6AoX-Dg_r7LzyfOoIZ3cwdzzVcIDu-YquTZBZTuaF_2Fv-om5y__F5gn46XykBxuOTbzZc_0C0)
 
 
-Лабораторная 2
+#### [Лабораторная 2]
 
 Диаграмма IDEF0
 
@@ -48,13 +48,14 @@ DFD-диаграмма: Обращение к БД
 
 ![image](https://www.plantuml.com/plantuml/png/fSwnQWCn30RWENeASLCx1Fe0fUIkNGzkwonivMBEPnsoJ8QcxrudRahs3WRn-KU_3jb8hQmHyXBIHaehaZDH_8BTG6wPLKhoxn8hVPw2CUnwLJat6MADrA2ePtsaxuTz9REZpF_U6FbeQ88QvfEX3yhEWYHezqulI1cxi-Z2sltYsD2BAoidk_FKb8p-WZSvbXYnyVte_lP1syOKGvgl_Hz31nFkz_ZKFqDzrt64slzwgTC4OuNBM-s60oTVrlW3)
 
-Лабораторная 3
+#### [Лабораторная 3]
 
 DFD-диаграмма (А2)
 
 ![image](https://user-images.githubusercontent.com/62379084/139420183-02c2e41f-7c33-4d51-814b-06519d00f7a3.png)
 
 Диаграмма последовательности:
+#### [текст](http://www.plantuml.com/plantuml/uml/JO_FIWCn4CRFdQS8FGfz0m-rFe17psaIR6Xs8vEi7bJe7y-2KF3i6onYKRHkNs7oHcRDXdW8kpE_-RwPR-eyHzzK1jnIrzSSUSM4uSwnEnZDk5XUeMrgUMwDHNQvq5x1w0pHtgREpCIHE6XHAlpVUW18DaxXZHQASSV6z4hxiA8t-WnhHaVg67NXCRuL7UYRzlGJoTCuIozwqoHyePQESQmBw_50jVn3yKCVXLARkRGYQNVKqLVOqg5V43QPn-2-SSDTOKDjs8HjiP_BX9vfLnIDLBNFaZXExzaJSixJ-yca5qDy_NzA0IdBIQorB4L_PAc6aqeZRmHOQAbOfQgvGfSAeL4ObO5VMEbWgchPLEON)
 
 ![image](https://user-images.githubusercontent.com/62379084/139420067-494af6e5-22c4-43cb-9716-fb8c37399da5.png)
 
@@ -65,6 +66,7 @@ DFD-диаграмма (А2)
 Данные записываются в БД и после получения документа студентом запрос закрывается.
 
 ER-диаграмма:
+#### [текст](http://www.plantuml.com/plantuml/uml/JO_FIWCn4CRFdQS8FGfz0m-rFe17psaIR6Xs8vEi7bJe7y-2KF3i6onYKRHkNs7oHcRDXdW8kpE_-RwPR-eyHzzK1jnIrzSSUSM4uSwnEnZDk5XUeMrgUMwDHNQvq5x1w0pHtgREpCIHE6XHAlpVUW18DaxXZHQASSV6z4hxiA8t-WnhHaVg67NXCRuL7UYRzlGJoTCuIozwqoHyePQESQmBw_50jVn3yKCVXLARkRGYQNVKqLVOqg5V43QPn-2-SSDTOKDjs8HjiP_BX9vfLnIDLBNFaZXExzaJSixJ-yca5qDy_NzA0IdBIQorB4L_PAc6aqeZRmHOQAbOfQgvGfSAeL4ObO5VMEbWgchPLEON)
 
 ![image](https://user-images.githubusercontent.com/62379084/139420928-91e7c09c-a5c9-4338-873d-cbaf10179024.png)
 
