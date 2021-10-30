@@ -1,4 +1,4 @@
-# [СЕМИНАРЫ 3-4](https://github.com/fireru277/fireru277.github.io.wiki.git)  
+# [СЕМИНАРЫ 3-4](https://github.com/fireru277/fireru277.github.io/wiki)  
 
 # ОТЧЕТ ПО ЛАБОРАТОРНЫМ РАБОТАМ
 
