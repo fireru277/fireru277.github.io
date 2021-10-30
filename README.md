@@ -1,4 +1,6 @@
-#                          ОТЧЕТ ПО ЛАБОРАТОРНЫМ РАБОТАМ
+# [СЕМИНАРЫ 3-4](https://github.com/fireru277/fireru277.github.io.wiki.git)  
+
+# ОТЧЕТ ПО ЛАБОРАТОРНЫМ РАБОТАМ
 
 
 ## <details><summary><b>Лабораторная 1</b></summary>
